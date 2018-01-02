@@ -1,0 +1,2 @@
+# rendyvisit
+blog safelink
